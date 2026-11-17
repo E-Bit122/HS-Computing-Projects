@@ -1,0 +1,11 @@
+2,90,22.5,Healthy
+2,90,22.5,Healthy
+2,90,22.5,Healthy
+2,70,17.5,Underwieght
+1.85,2,0.58,Underwieght
+500,60,0,Skippy
+500,6000,0.02,Skippy
+500,6000000,24,Healthy
+1.80,70,21.6,Healthy
+1.80,65,20.06,Healthy
+1.90,70,19.39,Healthy

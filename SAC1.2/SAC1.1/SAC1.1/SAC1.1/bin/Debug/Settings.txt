@@ -1,0 +1,5 @@
+﻿Metric,,0
+Metric,,0
+Metric,16/12/2001,1.85
+Imperial,,0
+Imperial,,0Imperial,,0
